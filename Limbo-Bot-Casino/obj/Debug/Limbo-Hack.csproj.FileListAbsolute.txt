@@ -1,0 +1,14 @@
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\bin\Debug\Limbo-Hack.exe.config
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\bin\Debug\Limbo-Hack.exe
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\bin\Debug\Limbo-Hack.pdb
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\bin\Debug\Guna.UI2.dll
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\bin\Debug\Siticone.Desktop.UI.dll
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.csproj.AssemblyReference.cache
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo_Hack.Limbo.resources
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo_Hack.LoginFrm.resources
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo_Hack.Properties.Resources.resources
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.csproj.GenerateResource.cache
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.csproj.CoreCompileInputs.cache
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.csproj.Up2Date
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.exe
+D:\GithubNew\8\Limbo\Limbo\Limbo-Bot-Casino\obj\Debug\Limbo-Hack.pdb
